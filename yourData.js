@@ -10,7 +10,7 @@ export default {
   headerTaglineFour: " based in Johannesburg",
 
   socials: [
-    { title: "Github", link: "https://github.com/chetanverma16" },
+    { title: "Github", link: "https://github.com/peacendlovu" },
     { title: "LinkedIn", link: "https://www.linkedin.com/in/ndlovupeace/" },
     { title: "Email", link: "peace.r.ndlovu@gmail.com" },
   ],
