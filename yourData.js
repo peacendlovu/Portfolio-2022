@@ -18,8 +18,8 @@ export default {
   // End Header Details -----------------------
   resume: [
     {
-      title: "Education", 
-      description: "Resume",
+      title: "Resume", 
+      description: "Indeed Resume",
       //Resume image
       imageSrc: "https://images.unsplash.com/photo-1602407294553-6ac9170b3ed0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
       //Resume link
